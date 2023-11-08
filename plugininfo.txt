@@ -1,0 +1,73 @@
+<plugin>
+
+<pluginname>hexball</pluginname>
+
+<globalstat><label>Turn</label><initialvalue>0</initialvalue></globalstat>
+
+<playerstat><label>Points</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Unused</label><initialvalue>0</initialvalue></playerstat>
+
+
+
+<deckzone>
+     <label>Order Hand</label>
+     <gamezonetoloadto>Hand</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Bench</label>
+     <gamezonetoloadto>Bench</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Bench</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+
+<gamezone>
+     <label>P1</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>P2</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>P3</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>P4</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+
+
+
+<generalfunction><label>Roll Skill Die</label><kind>ROLLD8</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Roll Standard Die</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind></cardfunction>
+
+
+</plugin>
