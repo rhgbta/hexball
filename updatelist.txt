@@ -1,0 +1,7 @@
+Hexball	11-07-23
+plugins/hexball/plugininfo.txt	https://github.com/rhgbta/hexball/plugininfo.txt	154436
+plugins/hexball/cardback.jpeg	https://github.com/rhgbta/hexball/cardback.jpeg	6209
+plugins/hexball/sets/carddata.txt	https://github.com/rhgbta/hexball/carddata.txt	186385
+plugins/hexball/pluginpreferences.txt	https://github.com/rhgbta/hexball/pluginpreferences.txt	212052
+CardGeneralURLs:
+https://github.com/rhgbta/hexball/blob/main/
