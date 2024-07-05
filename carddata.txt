@@ -1,18 +1,18 @@
 Name	Set	ImageFile	Position	Init	Actions	Skill	Handling	Attack	Defense	Durability	Ability	fw	fr	br	ba	bl	fl
-GoldenEagle	America	goldeneagle.png?raw=true	Thrower	3	Thr/Bst/Rot	3	3	1	2	4	"When this player is passing to a target that has no adjacent defenders, add +2 to each skill die"	4	3(4)	1(2)	2	1(2)	3(4)
-FaLc0n	America	falc0n.png?raw=true	Catcher	1	Thr/Bst/Rot	2	4	2	1	4	"If this player has a speed 4+ maneuver, and it completes its move, gain an evade token."	5	4	1(2)	0(1)	1(2)	4
-stArmAn	America	starman.png?raw=true	Linesbot	2	Thr/Bst/Rot/Evd	2	2	2	2	5	"After successfully attacking, push the defender 2 spaces instead of one, if able."	4	3	1(2)	1	1(2)	3
-TALON	America	talon.png?raw=true	Brawler	5	Thr/Rot/Tck	1	1	3	3	7	You may only use tackle on players in your back hexes.	3	2	1	0	1	2
-libertybiberty	America	libertybiberty.png?raw=true	Linesbot	4	Thr/Rot/Tck	1	3	2	2	6	"After executing a hard maneuver, perform a free boost action."	3(4)	2(3)	1(2)	0(1)	1(2)	2(3)
-stripewarrior	America	stripewarrior.png?raw=true	Brawler	5	Thr/Rot/Tck	1	1	3	2	5	"After moving directly backwards, you may perform a free rotate action."	3	1(2)	1	2	1	1(2)
-SilverBoot	America	silverboot.png?raw=true	Backer	1	Thr/Bst/Rot/Pnt	1	2	2	1	5	"When tackling the ball carrier in your defensive third, recover the ball instantly with no scatter."	4	3	1	0(2)	1	3
-Pr0wler	India	pr0wler.png?raw=true	Blitzer	5	Thr/Bst/Rot	2	2	3	2	6	"After a successful attack, perform a free boost action. You may attack a different player with this boost."	4	4	2	2	2	4
-PTL4	India	ptl4.png?raw=true	Runner	2	Thr/Bst/Rot/Evd	3	3	0	3	4	"After an action, you make take 1 damage to choose and take an additional action that you have not taken this round. Limit once per round."	6	4(5)	1(2)	0(1)	1(2)	4(5)
-Mango3000	India	mango3000.png?raw=true	Runner	2	Thr/Bst/Rot/Pnt	2	3	1	2	5	"At any time, you may take 1 damage to collect a loose ball stopped within 1 hex of this player."	5(6)	3(5)	1(2)	0(1)	1(2)	3(5)
-tiger21	India	tiger21.png?raw=true	Linesbot	4	Thr/Bst/Rot	2	1	2	2	6	"After you fail an attack, take 1 strain to re-attempt the attack. "	4	3	1	0	1	3
-gh0st	India	gh0st.png?raw=true	Thrower	1	Thr/Rot/Tck	3	3	1	1	4	"When you have a guard token, if you are attacked, you may immediately pass. No players on your team may pass/shoot for the rest of the round."	4(5)	3(4)	1	2	1	3(4)
-Lotus	India	lotus.png?raw=true	Linesbot	5	Thr/Rot/Tck	2	2	2	2	5	"After revealing your maneuver, move one space forward, if able."	3	3	1(2)	1	1(2)	3
-Dolphin	India	dolphin.png?raw=true	Backer	3	Thr/Bst/Rot	2	3	2	2	5	Players adjacent to this player may not intercept.	4(5)	4	1	1	1	4
-1	Nigeria	1.png?raw=true	Blitzer	4	Thr/Bst/Rot	2	2	3	2	6	"Action, 1 Strain: Perform an attack against a player within 2 clear straight line hexes. Do not perform knockbacks."	4	4	2	1	2	4
-2	Nigeria	2.png?raw=true	Catcher	2	Thr/Bst/Rot/Rec/Rvd	2	3	1	2	4	 +2 skill when shooting	5	4(6)	1(2)	0(1)	1(2)	4(6)
+GoldenEagle	America	goldeneagle.png	Thrower	3	Thr/Bst/Rot	3	3	1	2	4	"When this player is passing to a target that has no adjacent defenders, add +2 to each skill die"	4	3(4)	1(2)	2	1(2)	3(4)
+FaLc0n	America	falcon.png	Catcher	1	Thr/Bst/Rot	2	4	2	1	4	"If this player has a speed 4+ maneuver, and it completes its move, gain an evade token."	5	4	1(2)	0(1)	1(2)	4
+stArmAn	America	starman.png	Linesbot	2	Thr/Bst/Rot/Evd	2	2	2	2	5	"After successfully attacking, push the defender 2 spaces instead of one, if able."	4	3	1(2)	1	1(2)	3
+TALON	America	talon.png	Brawler	5	Thr/Rot/Tck	1	1	3	3	7	You may only use tackle on players in your back hexes.	3	2	1	0	1	2
+libertybiberty	America	libertybiberty.png	Linesbot	4	Thr/Rot/Tck	1	3	2	2	6	"After executing a hard maneuver, perform a free boost action."	3(4)	2(3)	1(2)	0(1)	1(2)	2(3)
+stripewarrior	America	stripewarrior.png	Brawler	5	Thr/Rot/Tck	1	1	3	2	5	"After moving directly backwards, you may perform a free rotate action."	3	1(2)	1	2	1	1(2)
+SilverBoot	America	silverboot.png	Backer	1	Thr/Bst/Rot/Pnt	1	2	2	1	5	"When tackling the ball carrier in your defensive third, recover the ball instantly with no scatter."	4	3	1	0(2)	1	3
+Pr0wler	India	prowler.png	Blitzer	5	Thr/Bst/Rot	2	2	3	2	6	"After a successful attack, perform a free boost action. You may attack a different player with this boost."	4	4	2	2	2	4
+PTL4	India	ptl4.png	Runner	2	Thr/Bst/Rot/Evd	3	3	0	3	4	"After an action, you make take 1 damage to choose and take an additional action that you have not taken this round. Limit once per round."	6	4(5)	1(2)	0(1)	1(2)	4(5)
+Mango3000	India	mango3000.png	Runner	2	Thr/Bst/Rot/Pnt	2	3	1	2	5	"At any time, you may take 1 damage to collect a loose ball stopped within 1 hex of this player."	5(6)	3(5)	1(2)	0(1)	1(2)	3(5)
+tiger21	India	tiger21.png	Linesbot	4	Thr/Bst/Rot	2	1	2	2	6	"After you fail an attack, take 1 strain to re-attempt the attack. "	4	3	1	0	1	3
+gh0st	India	ghost.png	Thrower	1	Thr/Rot/Tck	3	3	1	1	4	"When you have a guard token, if you are attacked, you may immediately pass. No players on your team may pass/shoot for the rest of the round."	4(5)	3(4)	1	2	1	3(4)
+Lotus	India	lotus.png	Linesbot	5	Thr/Rot/Tck	2	2	2	2	5	"After revealing your maneuver, move one space forward, if able."	3	3	1(2)	1	1(2)	3
+Dolphin	India	dolphin.png	Backer	3	Thr/Bst/Rot	2	3	2	2	5	Players adjacent to this player may not intercept.	4(5)	4	1	1	1	4
+1	Nigeria		Blitzer	4	Thr/Bst/Rot	2	2	3	2	6	"Action, 1 Strain: Perform an attack against a player within 2 clear straight line hexes. Do not perform knockbacks."	4	4	2	1	2	4
+2	Nigeria		Catcher	2	Thr/Bst/Rot/Rec/Rvd	2	3	1	2	4	 +2 skill when shooting	5	4(6)	1(2)	0(1)	1(2)	4(6)
 3	Nigeria		Runner	2	Thr/Rot/Evd	2	3	1	3	3	"When you reveal your dial, take 1 strain. If you do, your move may pass through the space of one player."	5(6)	4(5)	1(2)	1(2)	1(2)	4(5)
