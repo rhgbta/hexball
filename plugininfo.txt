@@ -61,6 +61,8 @@
 
 
 
+
+
 <generalfunction><label>Roll Skill Die</label><kind>ROLLD8</kind><includeasbutton>yes</includeasbutton></generalfunction>
 
 <generalfunction><label>Roll Standard Die</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
@@ -68,6 +70,13 @@
 
 <cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
 <cardfunction><label>Turn Over</label><kind>TURNOVER</kind></cardfunction>
+<cardfunction><label>Damage-1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Damage+1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Pass-1</label><kind>REMOVECOUNTERGREEN</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Pass+1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+
+<cardfunction><label>Shield-1</label><kind>REMOVECOUNTERBLUE</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Shield+1</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>.9</PositionX><PositionY>.04</PositionY></cardfunction>
 
 
 </plugin>

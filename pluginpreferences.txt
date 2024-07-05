@@ -1,8 +1,10 @@
 <pluginpreferences>
 
-<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyle>0</counterstyle>
+<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>download.png</recenttablebackgrounds>
 <canned>(PoP?) Pass or Play?</canned>
 <canned>Pass.</canned>
 <canned>Proceed.</canned>
@@ -60,7 +62,7 @@
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.000000</scalefactor>
+<scalefactor>0.200000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <isdownloadallmissing>1</isdownloadallmissing>
