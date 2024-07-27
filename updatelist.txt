@@ -2,6 +2,7 @@ Hexball	07-04-24
 plugins/hexball/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	243728
 plugins/hexball/cardback.jpeg	https://github.com/rhgbta/hexball/blob/main/cardback.jpeg?raw=true	6209
 plugins/hexball/sets/carddata.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/carddata.txt	231363
-plugins/hexball/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	221232
+plugins/hexball/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	225205
+plugins/hexball/updatelist.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/updatelist.txt	58750
 CardGeneralURLs:
 https://raw.githubusercontent.com/rhgbta/hexball/main/
